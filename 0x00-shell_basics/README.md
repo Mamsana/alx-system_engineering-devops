@@ -1,1 +1,1 @@
-The Command script prints the absolute path name of the current working directory
+The Shebang script executes the file using Bash Shell, while ls script is a command that displays the contents list of the current directory
