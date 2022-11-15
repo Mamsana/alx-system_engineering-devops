@@ -1,1 +1,1 @@
-Task 0 - 19; 0 - Where am I?
+This repository contains bash scripts learnt during the ALx bash projects.
